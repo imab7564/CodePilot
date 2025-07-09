@@ -6,7 +6,7 @@ const genrateBaseURL = (): string => {
     if (parsedData.machine&&parsedData.machine === 'local') {
       return 'http://localhost:4320'
     }
-    else return 'https://codyssey-backend.onrender.com';
+    else return '';
   } else {
     return '';
   }

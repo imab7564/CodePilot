@@ -2,7 +2,7 @@
 
 Online IDE is a web-based integrated development environment (IDE) that supports multiple programming languages including C, C++, Python, Java, HTML, CSS, and JavaScript. It provides a convenient platform for developers to write, edit, and run code directly from their web browsers.
 
-<img src="https://github.com/imab7564/Codyssey/issues/2#issue-3204720533" width="500">
+<!-- <img src="https://github.com/imab7564/Codyssey/issues/2#issue-3204720533" width="500"> -->
 
 ## Features
 
@@ -56,13 +56,13 @@ This project is licensed under the MIT License.
 
 
 
-## Images (Desktop)
+<!-- ## Images (Desktop)
 <img src="https://github.com/imab7564/Codyssey/issues/4#issue-3204723090" width="500">
-<!-- <img src="https://github.com/deepaksuthar40128/Code-Plumber/assets/92250394/6c54d5b3-e0b4-4206-9291-19b63b3b72a9" width="500">  -->
+<img src="https://github.com/deepaksuthar40128/Code-Plumber/assets/92250394/6c54d5b3-e0b4-4206-9291-19b63b3b72a9" width="500">  -->
 
 
-## Images (phone)
+<!-- ## Images (phone)
 <img src="https://github.com/imab7564/Codyssey/issues/5#issue-3204731443" width="200">
 <img src="https://github.com/imab7564/Codyssey/issues/6#issue-3204732584" width="200">   
 <!-- <img src="https://github.com/deepaksuthar40128/Code-Plumber/assets/92250394/de063460-a5f3-421d-830a-f2d226f3c93a" width="500">    
-  -->
+  --> -->

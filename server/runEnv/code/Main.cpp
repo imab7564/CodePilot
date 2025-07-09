@@ -1,19 +1,21 @@
+
 /*─────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │
-│                          🌊 Welcome to Codyssey 🌊                            |
+│                       ✈️  Welcome to CodePilot  ✈️                            │
 │                                                                              │
-│  Begin your coding journey with clarity and calm.                            │
-   This space is yours — write, explore, and build with ease.                │
+│  Navigate your coding journey with precision and purpose.                    │
+│  This cockpit is yours — write, test, and launch your ideas freely.          │
 │                                                                              │
-│  🧘 Take a breath. 💡 Write code. 🚀 See it come alive.                       │
+│  🧠 Plan smart. 💻 Code sharp. 🛫 Watch it take off.                          │
 │                                                                              │
-│  Happy Coding!                                                               │
+│  Clear skies and happy coding!                                               │
 └─────────────────────────────────────────────────────────────────────────────*/
+
 
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    cout << "Welcome to Codyssey!\nStart your journey here." << endl;
+    cout << "Welcome to CodePilot!\nStart your journey here." << endl;
     return 0;
 }

@@ -14,7 +14,7 @@ app.use((0, cookie_parser_1.default)());
 app.use(express_1.default.static(node_path_1.default.resolve(__dirname + '/../../client/dist/')));
 app.use((0, cors_1.default)({
     credentials: true,
-    origin: ["http://localhost:5173", "https://codyssey-ide.vercel.app/"],
+    origin: ["http://localhost:5173", ""],
 }));
 app.use("/compiler", compilerRouter_1.compilerRouter);
 app.use('/', (req, res) => {

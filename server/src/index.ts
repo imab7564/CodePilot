@@ -10,7 +10,7 @@ app.use(cookieParser());
 app.use(express.static(path.resolve(__dirname + '/../../client/dist/')));
 app.use(cors({
   credentials: true,
-  origin: ["http://localhost:5173", "https://codyssey-ide.vercel.app/"],
+  origin: ["http://localhost:5173", ""],
 }));
 
 app.use("/compiler", compilerRouter);
